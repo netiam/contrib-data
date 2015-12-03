@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/netiam/netiam-contrib-data.git"
+    "url": "https://github.com/netiam/contrib-data.git"
   },
   "keywords": [
     "REST",
@@ -46,9 +46,9 @@
   "author": "Hannes Moser <hannes@impossiblearts.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/netiam/netiam-contrib-data/issues"
+    "url": "https://github.com/netiam/contrib-data/issues"
   },
-  "homepage": "https://github.com/netiam/netiam-contrib-data",
+  "homepage": "https://github.com/netiam/contrib-data",
   "engines": {
     "node": ">=5",
     "npm": ">=3"
